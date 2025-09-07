@@ -1,17 +1,17 @@
-# 🍳 Odin Recipes
+# 🍽️ Odin Recipes
 
 **Odin Recipes** is a simple, static website built from the ground up using only **HTML** and **CSS**. The goal of this project is to strengthen my understanding of core web development technologies in their most fundamental form.
 
 This project was completed as part of [The Odin Project](https://www.theodinproject.com/) curriculum — a free, open-source, and community-driven platform for learning full-stack web development.
 
-## 🚀 Features
+## 🍜 Features
 
 - A clean, multi-page recipe website built with semantic HTML
 - Styled using custom CSS without any frameworks
 - Responsive layout *(TBD)*
 - Simple navigation and clear structure
 
-## 🛠️ Technologies Used
+## 🥢 Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -21,31 +21,31 @@ This project was completed as part of [The Odin Project](https://www.theodinproj
 
 This project was developed entirely inside a VirtualBox VM running **Xubuntu**, providing an opportunity to practice working in a Linux environment — including terminal navigation, file management, and Git usage from the command line.
 
-## 📚 What I Learned
+## 🍬 What I Learned
 
 - Structuring web pages using semantic HTML
 - Styling pages with CSS, including layout, typography, and basic responsiveness
 - Using Git for version control and pushing code to GitHub
 - Navigating and managing files in a Linux environment via the terminal
 
-## 📁 Project Structure
+## 🍰 Project Structure
 
 odin-recipes/ \
 ├── index.html \
 ├── recipes/  \
 │ ├── galbi-tang.html  \
 │ ├── hand-pulled-noodles.html  \
-│ └── salmon-roll.html  \
-├── css/  \
-│ └── styles.css  \
+│ └── omurice.html  \
+├── css/  (TODO) \
+│ └── styles.css (TODO)  \
 └── README.md 
 
 ## 🔗 Live Demo
 
- *TODO: Link to live demo on github pages.*
+The live demo can be viewed [here](https://lilnerddev.github.io/odin-recipes/).
 
-## 📖 Credits
+## 🍰 Credits
 
 - [The Odin Project](https://www.theodinproject.com/) for guidance and project inspiration
-- TODO: Credit image sources
+- All images were taken by myself, using an iPhone 13
 
