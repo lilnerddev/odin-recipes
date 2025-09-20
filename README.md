@@ -8,7 +8,6 @@ This project was completed as part of [The Odin Project](https://www.theodinproj
 
 - A clean, multi-page recipe website built with semantic HTML
 - Styled using custom CSS without any frameworks
-- Responsive layout *(TBD)*
 - Simple navigation and clear structure
 
 ## 🥢 Technologies Used
@@ -24,7 +23,7 @@ This project was developed entirely inside a VirtualBox VM running **Xubuntu**, 
 ## 🍬 What I Learned
 
 - Structuring web pages using semantic HTML
-- Styling pages with CSS, including layout, typography, and basic responsiveness
+- Styling pages with CSS
 - Using Git for version control and pushing code to GitHub
 - Navigating and managing files in a Linux environment via the terminal
 
@@ -36,9 +35,8 @@ odin-recipes/ \
 │ ├── galbi-tang.html  \
 │ ├── hand-pulled-noodles.html  \
 │ └── omurice.html  \
-├── css/  (TODO) \
-│ └── styles.css (TODO)  \
-└── README.md 
+├── README.md   \
+└── styles.css
 
 ## 🔗 Live Demo
 
@@ -48,4 +46,3 @@ The live demo can be viewed [here](https://lilnerddev.github.io/odin-recipes/).
 
 - [The Odin Project](https://www.theodinproject.com/) for guidance and project inspiration
 - All images were taken by myself, using an iPhone 13
-
